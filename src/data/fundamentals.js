@@ -120,9 +120,9 @@ export const fundamentalsCollection = {
 					},
 					skills: [
 						{
-							name: "Specificity",
+							name: "특정성",
 							description: {
-								text: "Learn what specificity means and how to use it when writing CSS.",
+								text: "CSS를 작성할 때 특정성 의미와 사용 방법 알아보기.",
 								links: [
 									["MDN - Specificity", "https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity"],
 									["MDN - Cascade and inheritance", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance"],
