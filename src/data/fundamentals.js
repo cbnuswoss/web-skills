@@ -94,7 +94,7 @@ export const fundamentalsCollection = {
 				{
 					name: "Syntax",
 					description: {
-						text: "Learn the basics of CSS and get comfortable with it's syntax and main concepts.",
+						text: "CSS의 기본을 배우고 CSS의 구문 및 주요 개념에 익숙해지십시오.",
 						links: [
 							["MDN - CSS Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics"],
 							["W3Schools - CSS Tutorial", "https://www.w3schools.com/css/default.asp"],
