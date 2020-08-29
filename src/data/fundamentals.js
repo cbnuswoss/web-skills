@@ -246,9 +246,9 @@ export const fundamentalsCollection = {
 					]
 				},
 				{
-					name: "Transforms",
-					description: {
-						text: "Learn the different ways to transform elements through CSS.",
+					name: "변환",
+               description: {
+                  text: "CSS를 통해 요소를 변환하는 다양한 방법에 대해 알아보십시오.",
 						links: [
 							["MDN - transform", "https://developer.mozilla.org/en-US/docs/Web/CSS/transform"],
 							["CSS Tricks - Transform", "https://css-tricks.com/almanac/properties/t/transform/"],
