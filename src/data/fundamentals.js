@@ -218,9 +218,9 @@ export const fundamentalsCollection = {
 					},
 					skills: [
 						{
-							name: "Flex",
+							name: "플렉스",
 							description: {
-								text: "Learn how to create layouts using flexbox.",
+								text: "Flexbox를 사용하여 레이아웃을 만드는 방법에 대해 알아 보십시오",
 								links: [
 									["MDN - Flexbox", "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox"],
 									["A Complete Guide to Flexbox", "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"],
