@@ -358,9 +358,9 @@ export const fundamentalsCollection = {
 					},
 					skills: [
 						{
-							name: "Spread",
+							name: "spread",
 							description: {
-								text: "Learn how the spread syntax can help you when working with arrays.",
+								text: "javascript spread 를 통해 배열을 활용하는 법을 배웁시다.",
 								links: [
 									["MDN - Spread syntax", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax"],
 									["Freecodecamp - An introduction to Spread syntax", "https://www.freecodecamp.org/news/an-introduction-to-spread-syntax-in-javascript-fba39595922c/"],
