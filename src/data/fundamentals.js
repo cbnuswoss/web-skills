@@ -206,9 +206,9 @@ export const fundamentalsCollection = {
 					},
 				},
 				{
-					name: "Layout",
+					name: "레이아웃",
 					description: {
-						text: "Learn the different layout types for web.",
+						text: "웹에 대한 다양한 레이아웃 유형 알아보기.",
 						links: [
 							["Chrome Dev - Basic Layout", "https://developers.google.com/training/certification/mobile-web-specialist/study-guide/basic-layout"],
 							["W3Schools - CSS Website Layout", "https://www.w3schools.com/css/css_website_layout.asp"],
