@@ -306,7 +306,7 @@ export const fundamentalsCollection = {
 							},
 						},
 						{
-							name: "이미지",
+							name: "images",
 							description: {
 								text: "항상 화면 크기에 가장 적합한 버전을 표시하면서 반응형 이미지를 만드는 방법을 알아봅니다.",
 								links: [
