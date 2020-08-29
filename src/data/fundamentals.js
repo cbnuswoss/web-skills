@@ -16,9 +16,9 @@ export const fundamentalsCollection = {
 					},
 					skills: [
 						{
-							name: "Basic Tags",
+							name: "기본HTMLTag",
 							description: {
-								text: "Get familiar with the basic HTML tags",
+								text: "기본 HTML Tag들을 익히세요",
 								links: [
 									["MDN - HTML elements reference", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
 									["Tutorialspoint - Basic HTML tags", "https://www.tutorialspoint.com/html/html_basic_tags.htm"],
