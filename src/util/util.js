@@ -50,6 +50,22 @@ export function getId (collection, area, skill) {
 }
 
 /**
+ * Returns the skill id for a skill.
+ * @param {*} [skill]
+ */
+export function getName (skill) {
+    if(skill.print_name != null){
+        return skill.print_name;
+    }
+    else{
+        if(skill.name != null)
+            return skill.name;
+        else
+            return null;
+    }
+}
+
+/**
  * Returns the search query for a skill.
  * @param {*} collection
  * @param {*} area
