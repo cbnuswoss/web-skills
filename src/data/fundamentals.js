@@ -53,9 +53,9 @@ export const fundamentalsCollection = {
 					},
 					skills: [
 						{
-							name: "Discoverable Content",
+							name: "검색 가능한 콘텐츠",
 							description: {
-								text: "Learn how to structure your HTML in a way that provides a rich experience when sharing it online.",
+								text: "Hey bro",
 								links: [
 									["Google Web - Social Discovery", "https://developers.google.com/web/fundamentals/discovery/social-discovery"],
 									["Google Search - Search Features", "https://developers.google.com/search/docs/guides/search-features"],
