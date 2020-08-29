@@ -282,9 +282,9 @@ export const fundamentalsCollection = {
 					},
 					skills: [
 						{
-							name: "Media Queries",
+							name: "미디어 쿼리",
 							description: {
-								text: "Learn how use media queries to build responsive layout.",
+								text: "미디어 쿼리를 사용하여 응답형 레이아웃을 구축하는 방법 알아보기.",
 								links: [
 									["CSS Tricks - CSS Media Queries & Using Available Space", "https://css-tricks.com/css-media-queries/"],
 									["MDN - Using media queries", "https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries"],
