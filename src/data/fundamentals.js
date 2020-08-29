@@ -258,7 +258,7 @@ export const fundamentalsCollection = {
 						{
 							name: "Animations",
 							description: {
-								text: "Learn how to animate elements through CSS using keyframes.",
+								text: "키프레임을 사용하여 CSS를 통해 요소를 애니메이션화하는 방법에 대해 알아 보십시오.",
 								links: [
 									["MDN - Using CSS animations", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations"],
 									["CSS Tricks - Animation", "https://css-tricks.com/almanac/properties/a/animation/"],
