@@ -148,9 +148,9 @@ export const fundamentalsCollection = {
 					]
 				},
 				{
-					name: "Box Model",
+					name: "박스 모델",
 					description: {
-						text: "Learn what the CSS box model means.",
+						text: "css 박스 모델이 무엇을 의미하는지 알아보자",
 						links: [
 							["MDN - Introduction to the CSS basic box model", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model"],
 							["MDN - The box model", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model"],
