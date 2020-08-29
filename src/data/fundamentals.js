@@ -346,13 +346,13 @@ export const fundamentalsCollection = {
 			name: "Javascript",
 			skills: [
 				{
-					name: "Syntax",
+					name: "개념",
 					description: {
-						text: "Learn the basics of Javascript and get comfortable with it's syntax and main concepts.",
+						text: "Javascript의 기본 사항을 배우고 구문 및 주요 개념에 익숙해 지십시오.",
 						links: [
-							["MDN - Javascript First Steps", "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps"],
-							["MDN - Javascript Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics"],
-							["MDN - Javascript Building Blocks", "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks"],
+							["MDN - Javascript 첫 단계", "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps"],
+							["MDN - Javascript 기본", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics"],
+							["MDN - Javascript 블록 쌓기", "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks"],
 							/* ["You might not need jQuery", "http://youmightnotneedjquery.com/"],*/
 						]
 					},
