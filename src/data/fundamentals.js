@@ -43,7 +43,7 @@ export const fundamentalsCollection = {
 				{
 					name: "SEO",
 					description: {
-						text: "Learn how to make your content search-friendly.",
+						text: "컨텐츠를 검색하기 쉽게 만드는 방법을 알아보십시오.",
 						links: [
 							["web.dev - Discoverable", "https://web.dev/discoverable"],
 							["Google Search - Get Started", "https://developers.google.com/search/docs/guides/get-started"],
