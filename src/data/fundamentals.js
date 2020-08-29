@@ -69,7 +69,7 @@ export const fundamentalsCollection = {
 				{
 					name: "Svg",
 					description: {
-						text: "Learn how to work with SVG files to make graphics look crisp across all screen resolutions.",
+						text: "모든 화면 해상도에서 그래픽을 선명하게 보이도록 SVG 파일로 작업하는 방법에 대해 알아 보십시오.",
 						links: [
 							["MDN - Adding vector graphics to the Web", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web"],
 							["SVG on the web", "https://svgontheweb.com/"],
