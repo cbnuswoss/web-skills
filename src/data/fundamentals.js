@@ -185,9 +185,9 @@ export const fundamentalsCollection = {
 					},
 				},*/
 				{
-					name: "Colors",
+					name: "색상",
 					description: {
-						text: "Learn the different ways you can define colors in CSS.",
+						text: "CSS에서 색상을 정의할 수 있는 다양한 방법에 대해 알아보십시오.",
 						links: [
 							["MDN - Color", "https://developer.mozilla.org/en-US/docs/Web/CSS/color"],
 							["MDN - <color>", "https://developer.mozilla.org/en-US/docs/Web/CSS/color_value"],
