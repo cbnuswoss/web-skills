@@ -293,9 +293,9 @@ export const fundamentalsCollection = {
 							},
 						},
 						{
-							name: "Relative Units",
+							name: "상대 단위",
 							description: {
-								text: "Learn how to use relative units for properties such as font sizes and spacing.",
+								text: "글꼴 크기 및 간격과 같은 속성에 상대 단위를 사용하는 방법에 대해 배우십시오.",
 								links: [
 									["MDN - Sizing items in CSS", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS"],
 									["MDN - CSS values and units", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units"],
