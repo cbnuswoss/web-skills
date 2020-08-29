@@ -107,17 +107,17 @@ export const fundamentalsCollection = {
 					}
 				},
 				{
-					name: "Selectors",
-					description: {
-						text: "Learn about CSS selectors and how to effeciently target DOM elements.",
-						links: [
-							["MDN - CSS selectors", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors"],
-							["MDN - All selectors", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors"],
-							["CSS Tricks - Child and Sibling Selectors", "https://css-tricks.com/child-and-sibling-selectors/"],
-							["CSS Tricks - All Selectors", "https://css-tricks.com/almanac/selectors/"],
-							["W3Schools - CSS Combinators", "https://www.w3schools.com/css/css_combinators.asp"]
-						]
-					},
+				name: "선택자",
+				description: {
+					text: "CSS 선택자에 대해 배우고 DOM에 효과적으로 타겟팅하는 방법 알아보기",
+					links: [
+						["MDN - CSS 선택자", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors"],
+						["MDN - 전체 선택자", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors"],
+						["CSS Tricks - 자손 & 형식 선택자", "https://css-tricks.com/child-and-sibling-selectors/"],
+						["CSS Tricks - 전체 선택자", "https://css-tricks.com/almanac/selectors/"],
+						["W3Schools - CSS 연결자", "https://www.w3schools.com/css/css_combinators.asp"]
+					]
+									},
 					skills: [
 						{
 							name: "특정성",
