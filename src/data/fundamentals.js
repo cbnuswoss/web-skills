@@ -30,9 +30,9 @@ export const fundamentalsCollection = {
 					]
 				},
 				{
-					name: "Forms",
+					name: "폼",
 					description: {
-						text: "Learn how to design efficient forms, validating them effectively and keeping the user informed along the way.",
+						text: "효율적인 양식을 설계하고, 효과적으로 검증하며, 사용자에게 지속적으로 통지하는 방법에 대해 알아보십시오.",
 						links: [
 							["MDN - HTML forms", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms"],
 							["Google Web - Forms", "https://developers.google.com/web/fundamentals/design-and-ux/input/forms/"],
