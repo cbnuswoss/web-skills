@@ -196,7 +196,7 @@ export const fundamentalsCollection = {
 					},
 				},
 				{
-					name: "계산",
+					name: "Calc",
 					description: {
 						text: "CSS 계산 함수를 사용하는 방법에 대해 배우십시오.",
 						links: [
