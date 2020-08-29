@@ -318,14 +318,14 @@ export const fundamentalsCollection = {
 					]
 				},
 				{
-					name: "CSS Variables",
+					name: "CSS 변수",
 					description: {
-						text: "Learn how to define and use CSS variables.",
+						text: "CSS 변수를 정의하고 사용하는 방법에 대해 알아 보십시오.",
 						links: [
-							["MDN - Using CSS custom properties", "https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties"],
-							["Google Devs - CSS Variables: Why Should You Care?", "https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care"],
-							["dev.to - CSS Quickies: CSS Variables", "https://dev.to/lampewebdev/css-quickies-css-variables-or-how-you-create-a-white-dark-theme-easily-1i0i"],
-							["CSS Variables explained with 5 examples", "https://codeburst.io/css-variables-explained-with-5-examples-84adaffaa5bd"],
+							["MDN - CSS 사용자 지정 속성 사용.", "https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties"],
+							["Google Devs - CSS 변수: 왜 신경써야 하는가?", "https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care"],
+							["dev.to - CSS 요약: CSS 변수.", "https://dev.to/lampewebdev/css-quickies-css-variables-or-how-you-create-a-white-dark-theme-easily-1i0i"],
+							["CSS 변수가 5가지 예와 함께 설명됨.", "https://codeburst.io/css-variables-explained-with-5-examples-84adaffaa5bd"],
 						]
 					}
 				},
