@@ -233,7 +233,7 @@ export const fundamentalsCollection = {
 						{
 							name: "Grid",
 							description: {
-								text: "Learn how to create layouts using CSS Grid.",
+								text: "CSS 그리드를 사용하여 레이아웃을 만드는 방법에 대해 알아 보십시오.",
 								links: [
 									["MDN - Grids", "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids"],
 									["A Complete Guide to CSS Grid", "https://css-tricks.com/snippets/css/complete-guide-grid/"],
