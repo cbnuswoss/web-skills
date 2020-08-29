@@ -77,9 +77,9 @@ export const fundamentalsCollection = {
 					}
 				},
 				{
-					name: "Best Practices",
+					name: "모범 사례",
 					description: {
-						text: "Learn the best practices of writing HTML.",
+						text: "HTML 작성의 모범 사례에 대해 알아보십시오.",
 						links: [
 							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
 							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
