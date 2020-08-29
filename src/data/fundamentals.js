@@ -332,11 +332,11 @@ export const fundamentalsCollection = {
 				{
 					name: "Best Practices",
 					description: {
-						text: "Learn the best practices of writing CSS.",
+						text: "CSS 작성의 모범 사례 알아보기.",
 						links: [
-							["MDN - CSS guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/CSS"],
-							["MDN - Organizing your CSS", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing"],
-							["Speckyboy - Good and bad CSS practices", "https://speckyboy.com/good-bad-css-practices/"],
+							["MDN - CSS 가이드라인", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/CSS"],
+							["MDN - CSS 구성하기", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing"],
+							["Speckyboy - CSS 좋은 사례와 나쁜 사례", "https://speckyboy.com/good-bad-css-practices/"],
 						]
 					}
 				}
