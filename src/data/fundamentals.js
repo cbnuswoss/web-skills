@@ -2,10 +2,10 @@ export const fundamentalsCollection = {
 	name: "기초",
 	areas: [
 		{
-			name: "HTML",
+			name: "1grade",
 			skills: [
 				{
-					name: "구문",
+					name: "testing",
 					description: {
 						text: "HTML의 기초를 배우고 HTML의 구문 및 주요 개념에 익숙해지십시오.",
 						links: [
