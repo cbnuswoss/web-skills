@@ -196,9 +196,9 @@ export const fundamentalsCollection = {
 					},
 				},
 				{
-					name: "Calc",
+					name: "계산",
 					description: {
-						text: "Learn how to use the CSS calc function.",
+						text: "CSS 계산 함수를 사용하는 방법에 대해 배우십시오.",
 						links: [
 							["MDN - Calc", "https://developer.mozilla.org/en-US/docs/Web/CSS/calc"],
 							["CSS Tricks - A Couple of Use Cases for Calc()", "https://css-tricks.com/a-couple-of-use-cases-for-calc/"],
