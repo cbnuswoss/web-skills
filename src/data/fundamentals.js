@@ -1,5 +1,5 @@
 export const fundamentalsCollection = {
-	name: "기초",
+	name: "test",
 	areas: [
 		{
 			name: "HTML",
