@@ -133,9 +133,9 @@ export const fundamentalsCollection = {
 							},
 						},
 						{
-							name: "Pseudo Selectors",
+							name: "의사 선택자",
 							description: {
-								text: "Learn how to use pseudo selectors.",
+								text: "의사 선택자에 대해 알아봅시다.",
 								links: [
 									["MDN - Pseudo-classes", "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes"],
 									["CSS Tricks - Meet the Pseudo Class Selectors", "https://css-tricks.com/pseudo-class-selectors/"],
