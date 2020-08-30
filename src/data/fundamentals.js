@@ -282,7 +282,7 @@ export const fundamentalsCollection = {
 					},
 					skills: [
 						{
-							name: "미디어 쿼리",
+							name: "테스트중",
 							description: {
 								text: "미디어 쿼리를 사용하여 응답형 레이아웃을 구축하는 방법 알아보기.",
 								links: [
