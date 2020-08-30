@@ -7,7 +7,8 @@ import {
 	attachLazyImgIntersectionObserver,
 	constructImagePathPrefix,
 	dispatchCloseDescriptionEvent,
-	getId
+	getId,
+	getName
 } from "../util/util.js";
 import {css, html, LitElement} from "./../../web_modules/lit-element.js";
 import {repeat} from "./../../web_modules/lit-html/directives/repeat.js";
@@ -333,11 +334,11 @@ export class Skill extends LitElement {
 		const {name, skills} = skill;
 
 		return html`
-			<div id="skill" aria-label="${name}" tabindex="0" class="${completed ? `completed` : ``}" @click="${this.toggleForceShowDescription}" @mouseenter="${this.onMouseEnter}" @mouseleave="${this.onMouseLeave}">
+			<div id="skill" aria-label="${getName(skill)}" tabindex="0" class="${completed ? `completed` : ``}" @click="${this.toggleForceShowDescription}" @mouseenter="${this.onMouseEnter}" @mouseleave="${this.onMouseLeave}">
 				<div id="img-container">
 					<img id="img" loading="lazy" draggable="false" width="70px" height="70px" intrinsicsize="70x70" alt="${name}" role="presentation" data-src="${constructImagePathPrefix(collection, area, skill)}" />
 				</div>
-				<h6 id="title">${name}</h6>
+				<h6 id="title">${getName(skill)}</h6>
 				${this.isShowingDescription ? html`<ws-description id="description" .collection="${this.collection}" .area="${this.area}" .skill="${this.skill}" @close="${this.closeDescription}" ?compact="${this.compact}"></ws-description>` : undefined}
 			</div>
 			${skills != null && !this.compact ? html`

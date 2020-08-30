@@ -160,8 +160,9 @@ export const fundamentalsCollection = {
 					skills: [
 						{
 							name: "Margin Collapsing",
-							description: {
-								text: "Learn about margin collapsing.",
+                            print_name: "마진 상쇄",
+                            description: {
+                                text: "마진 상쇄에 대해 배워보자.",
 								links: [
 									["MDN - Mastering margin collapsing", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing"],
 									["Margin Collapse in CSS: What, Why, and How", "https://medium.com/@joseph0crick/margin-collapse-in-css-what-why-and-how-328c10e37ca0"],
