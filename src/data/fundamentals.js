@@ -371,7 +371,7 @@ export const fundamentalsCollection = {
 						{
 							name: "Destructuring",
 							description: {
-								text: "Learn how destructuring can help you when working with objects.",
+								text: "개체와 함께 작업할때 파괴가 어떻게 도움이 되는지 배워보십시오",
 								links: [
 									["MDN - Destructuring assignment", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment"],
 									["MDN - ES6 In Depth: Destructuring", "https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/"],
@@ -684,10 +684,10 @@ export const fundamentalsCollection = {
 					description: {
 						text: "Learn what a browser engine is and get an overview of the browser landscape and market share.",
 						links: [
-								["Medium - Browser Engines", "https://medium.com/@jonbiro/browser-engines-chromium-v8-blink-gecko-webkit-98d6b0490968"],
-								["Wikipedia - Comparison", "https://en.wikipedia.org/wiki/Comparison_of_browser_engines"],
-								["HTML5 Rocks - How Browsers Work", "https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/"],
-								["Demystifying Browsers", "https://textslashplain.com/2020/02/09/demystifying-browsers/"],
+							["Medium - Browser Engines", "https://medium.com/@jonbiro/browser-engines-chromium-v8-blink-gecko-webkit-98d6b0490968"],
+							["Wikipedia - Comparison", "https://en.wikipedia.org/wiki/Comparison_of_browser_engines"],
+							["HTML5 Rocks - How Browsers Work", "https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/"],
+							["Demystifying Browsers", "https://textslashplain.com/2020/02/09/demystifying-browsers/"],
 						]
 					},
 					skills: [
