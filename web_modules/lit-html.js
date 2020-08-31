@@ -1,2 +1,2 @@
-export{h as html,r as render,s as svg}from"./common/lit-html-6bb77aec.js";
+export{h as html,s as svg}from"./common/lit-html-b5eeea4b.js";export{r as render}from"./common/render-28ceaced.js";
 //# sourceMappingURL=lit-html.js.map
