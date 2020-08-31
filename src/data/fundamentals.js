@@ -1,13 +1,13 @@
 export const fundamentalsCollection = {
-	name: "기초",
+	name: "1st",
 	areas: [
 		{
-			name: "HTML",
+			name: "tset",
 			skills: [
 				{
-					name: "구문",
+					name: "testing",
 					description: {
-						text: "HTML의 기초를 배우고 HTML의 구문 및 주요 개념에 익숙해지십시오.",
+						text: "테스팅",
 						links: [
 							["MDN - HTML Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"],
 							["MDN - Introduction to HTML", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"],
