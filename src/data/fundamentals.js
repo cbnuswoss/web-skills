@@ -758,7 +758,7 @@ export const fundamentalsCollection = {
 					}
 				},
 				{
-					name: "Debugging",
+					name: "디버깅",
 					description: {
 						text: "Learn about the basics concepts of debugging.",
 						links: [
