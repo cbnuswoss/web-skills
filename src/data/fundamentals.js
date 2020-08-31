@@ -306,9 +306,9 @@ export const fundamentalsCollection = {
 							},
 						},
 						{
-							name: "Images",
+							name: "images",
 							description: {
-								text: "Learn how to make images responsive, always showing the best possible version for the screen size.",
+								text: "항상 화면 크기에 가장 적합한 버전을 표시하면서 반응형 이미지를 만드는 방법을 알아봅니다.",
 								links: [
 									["Google Devs - Responsive Images", "https://developers.google.com/web/fundamentals/design-and-ux/responsive/images"],
 									["MDN - Responsive Images", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images"],
